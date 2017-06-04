@@ -1,0 +1,48 @@
+CProgram FilesJavajdk1.8.0_111binjava -javaagentCProgram FilesJetBrainsIntelliJ IDEA Community Edition 2017.1.1libidea_rt.jar=62403CProgram FilesJetBrainsIntelliJ IDEA Community Edition 2017.1.1bin -Dfile.encoding=UTF-8 -classpath CProgram FilesJavajdk1.8.0_111jrelibcharsets.jar;CProgram FilesJavajdk1.8.0_111jrelibdeploy.jar;CProgram FilesJavajdk1.8.0_111jrelibextaccess-bridge-64.jar;CProgram FilesJavajdk1.8.0_111jrelibextcldrdata.jar;CProgram FilesJavajdk1.8.0_111jrelibextdnsns.jar;CProgram FilesJavajdk1.8.0_111jrelibextjaccess.jar;CProgram FilesJavajdk1.8.0_111jrelibextjfxrt.jar;CProgram FilesJavajdk1.8.0_111jrelibextlocaledata.jar;CProgram FilesJavajdk1.8.0_111jrelibextnashorn.jar;CProgram FilesJavajdk1.8.0_111jrelibextsunec.jar;CProgram FilesJavajdk1.8.0_111jrelibextsunjce_provider.jar;CProgram FilesJavajdk1.8.0_111jrelibextsunmscapi.jar;CProgram FilesJavajdk1.8.0_111jrelibextsunpkcs11.jar;CProgram FilesJavajdk1.8.0_111jrelibextzipfs.jar;CProgram FilesJavajdk1.8.0_111jrelibjavaws.jar;CProgram FilesJavajdk1.8.0_111jrelibjce.jar;CProgram FilesJavajdk1.8.0_111jrelibjfr.jar;CProgram FilesJavajdk1.8.0_111jrelibjfxswt.jar;CProgram FilesJavajdk1.8.0_111jrelibjsse.jar;CProgram FilesJavajdk1.8.0_111jrelibmanagement-agent.jar;CProgram FilesJavajdk1.8.0_111jrelibplugin.jar;CProgram FilesJavajdk1.8.0_111jrelibresources.jar;CProgram FilesJavajdk1.8.0_111jrelibrt.jar;CUsersMober6DesktopGITHUBSTUFFITHINKazalahli-project07out;CUsersMober6Downloadsjson-simple-1.1.1.jar hashTables.MyTunes
+Total number of songs read 59600 
+Test file for id table resourcesfindIDs.txt 
+
+Finding song id 2
+Song id 2 found in tableOfSongIDs. 
+
+Finding song id 3
+Song id 3 found in tableOfSongIDs. 
+
+Finding song id 4
+Song id 4 found in tableOfSongIDs. 
+
+Finding song id 99
+Song id 99 found in tableOfSongIDs. 
+
+Finding song id 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for genre table resourcesfindGenres.txt 
+
+Number of store songs in each genre
+classic pop and rock 	  23895 
+                punk 	   3200 
+                folk 	  13192 
+                 pop 	   1617 
+dance and electronica 	   4935 
+               metal 	   2103 
+      jazz and blues 	   4334 
+           classical 	   1874 
+             hip-hop 	    434 
+     soul and reggae 	   4016 
+
+Finding genre pop
+Genre pop found in tableOfGenres. 
+
+Finding genre classic pop and rock
+Genre classic pop and rock found in tableOfGenres. 
+
+Finding genre FOOTHILL
+Genre FOOTHILL NOT found in tableOfGenres.
+Done with testing table of genres.
+
+
+Done with MyTunes.
+
+Process finished with exit code 0
