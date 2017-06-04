@@ -20,5 +20,16 @@ src/hashTables/TableGenerator.java
 	Generates Hash tables for both types of hash wrapper
 resources/RUN.txt
 	console output of MyTunes.java
+PART 2
+src/hashTables/Benchmarking.java
+	Used to benchmark algorithms
+resources/RUN_SAMPLE_BENCHMARKING.txt
+	console output of Benchmarking.java
+resources/PART2 - SEE SUMMARY.xlsx
+	Part 2 Data Crunch
+resources/summary.png
+	Picture of graphs, as well as analysis
+resources/benchIDs.txt
+	id's used for benchmarking
 README.txt
 	description of files submitted

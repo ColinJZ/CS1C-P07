@@ -1,0 +1,114 @@
+"C:\Program Files\Java\jdk1.8.0_111\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.1\lib\idea_rt.jar=63358:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_111\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar;C:\Users\Mober6\Desktop\GITHUBSTUFFITHINK\azalahli-project07\out;C:\Users\Mober6\Downloads\json-simple-1.1.1.jar" hashTables.Benchmarking
+Total number of songs read 59600 
+PAST THIS IS HASH
+PAST THIS IS HASH
+PAST THIS IS HASH
+Test file for id table: resources/benchIDs.txt 
+
+Finding song id: 1
+Song id 1 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 241930 ns. 
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 174117 ns. 
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 130129 ns. 
+
+Finding song id: 8
+Song id 8 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 180715 ns. 
+
+Finding song id: 16
+Song id 16 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 148091 ns. 
+
+Finding song id: 32
+Song id 32 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 158721 ns. 
+
+Finding song id: 64
+Song id 64 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 152123 ns. 
+
+Finding song id: 128
+Song id 128 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 106303 ns. 
+
+Finding song id: 256
+Song id 256 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 135994 ns. 
+
+Finding song id: 512
+Song id 512 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 168252 ns. 
+
+Finding song id: 1024
+Song id 1024 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 154323 ns. 
+
+Finding song id: 2048
+Song id 2048 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 145891 ns. 
+
+Finding song id: 4096
+Song id 4096 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 169718 ns. 
+
+Finding song id: 8192
+Song id 8192 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 117666 ns. 
+
+Finding song id: 16384
+Song id 16384 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 101538 ns. 
+
+Finding song id: 32768
+Song id 32768 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 130863 ns. 
+Done with testing table of ids.
+
+PAST THIS IS SEQUENTIAL
+PAST THIS IS SEQUENTIAL
+PAST THIS IS SEQUENTIAL
+Test file for id table: resources/benchIDs.txt 
+
+Finding song id: 1
+Song id 1 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 121699 ns. 
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 225802 ns. 
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 167152 ns. 
+
+Finding song id: 8
+Song id 8 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 126830 ns. 
+
+Finding song id: 16
+Song id 16 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 154323 ns. 
+
+Finding song id: 32
+Song id 32 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 238998 ns. 
+
+Finding song id: 64
+Song id 64 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 144059 ns. 
+
+Finding song id: 128
+Song id 128 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 211506 ns. 
+
+Finding song id: 256
+Song id 256 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 256226 ns. 
+
+Finding song id: 512
+Song id 512 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 306445 ns. 
+
+Finding song id: 1024
+Song id 1024 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 395153 ns. 
+
+Finding song id: 2048
+Song id 2048 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 476896 ns. 
+
+Finding song id: 4096
+Song id 4096 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 0 ms : 658711 ns. 
+
+Finding song id: 8192
+Song id 8192 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 1 ms : 102250 ns. 
+
+Finding song id: 16384
+Song id 16384 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 1 ms : 337216 ns. 
+
+Finding song id: 32768
+Song id 32768 found in tableOfSongIDs in 0 hrs : 0 mins : 0 sec : 2 ms : 707056 ns. 
+Done with testing table of ids.
+
+
+Done with Benchmarking.
+
+Process finished with exit code 0
