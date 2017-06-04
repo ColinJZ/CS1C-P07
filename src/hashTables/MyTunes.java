@@ -59,7 +59,7 @@ public class MyTunes
 
 	/**
 	 * Uses MillionSongDataSubset to read all songs from data file.
-	 * @param FILENAME		A JSON file to parse
+	 * @param jsonFile		A JSON file to parse
 	 * @return				The array of SongEntry objects
 	 */
 	public static SongEntry [] readSongsFromDataFile(String jsonFile)
