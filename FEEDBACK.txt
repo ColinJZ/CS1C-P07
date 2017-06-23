@@ -1,0 +1,20 @@
+FEEDBACK:
+
+Excellent implementation of find and helper method findPosKey() 
+	in class FHhasQPwFind.
+	
+
++0.5 Excellent documentation of your source code.
+	
+	
+Extra Credit Opportunity:
++2.5 Analysis of search times of hash table vs array of song objects via 
+     graphical representation.
++1.5 Description of findings.
+	
+QUESTION: Please clarify what you mean by "as the algorithms timer expires".
+    Your Benchmarking class is not making use of threads, timers, etc...
+    Which timer are you referring to?
+
+-Bita.
+
